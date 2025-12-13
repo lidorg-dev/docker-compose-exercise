@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.2
 
 # Make directory for application
 RUN mkdir /app
